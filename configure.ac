@@ -687,7 +687,6 @@ AC_CONFIG_FILES([
   compiler/cpp/src/windows/version.h
   lib/Makefile
   lib/cpp/Makefile
-  lib/cpp/test/Makefile
   lib/cpp/thrift-nb.pc
   lib/cpp/thrift-z.pc
   lib/cpp/thrift-qt.pc
@@ -695,39 +694,18 @@ AC_CONFIG_FILES([
   lib/cpp/thrift.pc
   lib/c_glib/Makefile
   lib/c_glib/thrift_c_glib.pc
-  lib/c_glib/test/Makefile
   lib/csharp/Makefile
-  lib/csharp/test/ThriftTest/Makefile
   lib/d/Makefile
-  lib/d/test/Makefile
   lib/erl/Makefile
   lib/go/Makefile
-  lib/go/test/Makefile
-  lib/haxe/test/Makefile
   lib/hs/Makefile
   lib/java/Makefile
-  lib/js/test/Makefile
   lib/nodejs/Makefile
   lib/perl/Makefile
-  lib/perl/test/Makefile
   lib/php/Makefile
-  lib/php/test/Makefile
   lib/py/Makefile
   lib/rb/Makefile
   lib/lua/Makefile
-  test/Makefile
-  test/c_glib/Makefile
-  test/cpp/Makefile
-  test/erl/Makefile
-  test/go/Makefile
-  test/haxe/Makefile
-  test/hs/Makefile
-  test/php/Makefile
-  test/perl/Makefile
-  test/py/Makefile
-  test/py.twisted/Makefile
-  test/py.tornado/Makefile
-  test/rb/Makefile
   tutorial/Makefile
   tutorial/c_glib/Makefile
   tutorial/cpp/Makefile
